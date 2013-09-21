@@ -1,4 +1,4 @@
-package be.kurtsys.red.core;
+package be.kurtsys.vertx.streamliner;
 
 import org.vertx.java.core.*;
 import org.vertx.java.core.http.*;

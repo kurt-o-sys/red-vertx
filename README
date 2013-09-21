@@ -1,5 +1,3 @@
-This is an engine for the zot-protocol, used to communicate with the red-matrix: https://github.com/friendica/red .
-Zot is basically a collection of decentralized (nomadic) identity and messaging services that provide secure, spam-free 
-and private communication. 
+This is an engine for the zot-protocol, used to communicate with the red-matrix: https://github.com/friendica/red. Zot is basically a collection of decentralized (nomadic) identity and messaging services that provide secure, spam-free and private communication. 
 
 Because the internet isn't free, safe and secure anymore. But it should be.

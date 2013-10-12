@@ -2,15 +2,16 @@ package be.kurtsys.vertx.streamliner;
 
 import org.vertx.java.core.*;
 import org.vertx.java.core.eventbus.*;
+import org.vertx.java.core.json.JsonObject;
 
 import java.io.*;
 import java.net.*;
 
 public class SearchdirHandler
-		implements Handler<Message> {
+		implements Handler<Message<JsonObject>> {
 
 	@Override
-	public void handle(Message message) {
+	public void handle(Message<JsonObject> message) {
 		message.reply("searching...");
 		try {
 			URL url = new URL("http://zothub.com/dirsearch");

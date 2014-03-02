@@ -1,0 +1,4 @@
+{
+  "main": "be.qsys.vertx.streamliner.redserver.RequestController",
+  "includes": "com.jetdrone~yoke~1.0.1"
+}

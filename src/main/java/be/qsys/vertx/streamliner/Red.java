@@ -1,4 +1,4 @@
-package be.kurtsys.vertx.streamliner;
+package be.qsys.vertx.streamliner;
 
 import org.vertx.java.core.*;
 import org.vertx.java.core.http.*;

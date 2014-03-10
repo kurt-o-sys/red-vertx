@@ -1,0 +1,4 @@
+{
+  "main": "red.vertx.server.webservices.WebServiceController",
+  "includes": "com.jetdrone~yoke~1.0.1"
+}

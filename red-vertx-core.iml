@@ -20,6 +20,8 @@
     <orderEntry type="library" name="Maven: log4j:log4j:1.2.16" level="project" />
     <orderEntry type="library" name="Maven: io.vertx:vertx-platform:2.0.2-final" level="project" />
     <orderEntry type="library" scope="PROVIDED" name="Maven: com.jetdrone:yoke:1.0.1" level="project" />
+    <orderEntry type="library" name="Maven: org.jetbrains.kotlin:kotlin-stdlib:0.7.5" level="project" />
+    <orderEntry type="library" name="Maven: org.jetbrains.kotlin:kotlin-runtime:0.7.5" level="project" />
   </component>
 </module>
 

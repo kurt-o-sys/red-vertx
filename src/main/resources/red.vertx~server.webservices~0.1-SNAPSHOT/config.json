@@ -1,0 +1,6 @@
+{
+   "routes": [
+      {"url":"/.well-known", "channel":"red.vertx.server.wellknown"},
+      {"url":"/dirsearch", "channel":"red.vertx.server.dirsearch"}
+   ]
+}
